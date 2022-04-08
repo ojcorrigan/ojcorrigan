@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ojcorrigan
 - 👀 I’m interested in Guitars, coding, wood working, podcasts and music
 - 🌱 I’m currently learning to code via Northcoders
-- 📫 How to reach me on twitter [![Twitter URL](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&style=social)](https://twitter.com/OwenCorrigan05)
+- 📫 How to reach me on [![Twitter URL](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&style=social)](https://twitter.com/OwenCorrigan05)
 
 
 
