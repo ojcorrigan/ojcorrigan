@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ojcorrigan
-- 👀 I’m interested in Guitars, wood working, podcasts and music
+- 👀 I’m interested in Guitars, coding, wood working, podcasts and music
 - 🌱 I’m currently learning to code via Northcoders
-- 💞️ I’m looking to collaborate on I have no idea yet. 
-- 📫 How to reach me on twitter @OwenCorrigan05
+- 📫 How to reach me on twitter [![Twitter URL](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white&style=social)](https://twitter.com/OwenCorrigan05)
+
+
 
 <!---
 ojcorrigan/ojcorrigan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
